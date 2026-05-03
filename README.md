@@ -9,7 +9,7 @@
 
 The **Crime Data Analysis & Prediction System** is an interactive web application that analyzes historical crime data, identifies patterns, predicts future crime types, and provides actionable insights for law enforcement agencies. The system uses **Machine Learning** (Random Forest Classifier) to predict crime types based on location, time, and day of week.
 
-📋 Languages & Frameworks
+**📋 Languages & Frameworks**
 Category	Technology	Version	Purpose
 Primary Language	Python	3.11+	Entire project backend
 Web Framework	Streamlit	1.25+	Interactive dashboard UI
