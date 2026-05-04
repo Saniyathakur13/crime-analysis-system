@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 📋 Project Overview
-
+Live App Link- https://crime-analysis-system.streamlit.app/
 The **Crime Data Analysis & Prediction System** is an interactive web application that analyzes historical crime data, identifies patterns, predicts future crime types, and provides actionable insights for law enforcement agencies. The system uses **Machine Learning** (Random Forest Classifier) to predict crime types based on location, time, and day of week.
 
 **📋 Languages & Frameworks**
